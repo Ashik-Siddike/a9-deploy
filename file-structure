@@ -1,0 +1,24 @@
+src/
+  ├── components/
+  │   ├── shared/
+  │   │   ├── Navbar.jsx
+  │   │   └── Footer.jsx
+  │   └── home/
+  │       ├── Banner.jsx
+  │       ├── About.jsx
+  │       └── HowItWorks.jsx
+  ├── pages/
+  │   ├── Home.jsx
+  │   ├── DonationCampaigns.jsx
+  │   ├── DonationDetails.jsx
+  │   ├── Dashboard.jsx
+  │   ├── Login.jsx
+  │   └── Register.jsx
+  ├── routes/
+  │   └── Routes.jsx
+  ├── contexts/
+  │   └── AuthProvider.jsx
+  ├── hooks/
+  │   └── useAuth.js
+  └── firebase/
+      └── firebase.config.js 

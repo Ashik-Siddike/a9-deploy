@@ -1,0 +1,58 @@
+{
+  "campaigns": [
+    {
+      "id": 1,
+      "title": "Winter Warmth for Dhaka",
+      "image": "https://i.ibb.co.com/nCsggtV/image.png",
+      "description": "Help us provide warm clothing to underprivileged communities in Dhaka during the winter season.",
+      "status": "Active",
+      "contactInfo": "+880 1711-123456",
+      "division": "Dhaka"
+    },
+    {
+      "id": 2,
+      "title": "Blankets for Rajshahi",
+      "image": "https://i.ibb.co.com/XLhd1t2/image.png",
+      "description": "Support our initiative to distribute blankets to rural areas in Rajshahi division.",
+      "status": "Active",
+      "contactInfo": "+880 1722-234567",
+      "division": "Rajshahi"
+    },
+    {
+      "id": 3,
+      "title": "Warm Clothes for Sylhet",
+      "image": "https://i.ibb.co.com/qyPcfT4/image.png",
+      "description": "Join us in providing winter clothing to tea garden workers in Sylhet.",
+      "status": "Active",
+      "contactInfo": "+880 1733-345678",
+      "division": "Sylhet"
+    },
+    {
+      "id": 4,
+      "title": "Chittagong Hill Tracts Support",
+      "image": "https://i.ibb.co.com/b2Lsr6s/image.png",
+      "description": "Help indigenous communities in Chittagong Hill Tracts stay warm this winter.",
+      "status": "Active",
+      "contactInfo": "+880 1744-456789",
+      "division": "Chittagong"
+    },
+    {
+      "id": 5,
+      "title": "Khulna Winter Relief",
+      "image": "https://i.ibb.co.com/z6T2fBh/image.png",
+      "description": "Support coastal communities in Khulna with warm clothing and blankets.",
+      "status": "Active",
+      "contactInfo": "+880 1755-567890",
+      "division": "Khulna"
+    },
+    {
+      "id": 6,
+      "title": "Rangpur Rural Support",
+      "image": "https://i.ibb.co.com/swd1jBF/image.png",
+      "description": "Help rural communities in Rangpur division cope with extreme winter conditions.",
+      "status": "Active",
+      "contactInfo": "+880 1766-678901",
+      "division": "Rangpur"
+    }
+  ]
+}
